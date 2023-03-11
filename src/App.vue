@@ -117,7 +117,7 @@
 
           <p class="copyright-text">
             Copyright 2022 © Wren - Personal Blog Template. Developed by
-            codewithsadee
+            UmrbekPro
           </p>
         </nav>
 
